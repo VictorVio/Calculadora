@@ -8,7 +8,7 @@ public class Calculator {
         boolean repetir = true;
         while (repetir){
             Scanner scan = new Scanner(System.in);
-            System.out.println("Digite um numero");
+            System.out.println("Type a number");
 
             float float1 = scan.nextFloat();
             System.out.println("Digite um sinal");
